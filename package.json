@@ -1,0 +1,21 @@
+{
+  "name": "webia-solutionz",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.2.4",
+    "emailjs-com": "^3.2.0",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "18.2.0",
+    "react-icons": "^5.0.1",
+    "swiper": "^9.2.0"
+  }
+}
